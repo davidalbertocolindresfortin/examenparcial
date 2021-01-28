@@ -9,6 +9,6 @@
   "author": "David Colindres <davidcolindres030@gamil.com>",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^9.4.0"
   }
 }
